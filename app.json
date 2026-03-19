@@ -12,7 +12,8 @@
       "backgroundColor": "#6C63FF"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.git47289.studyconnect"
     },
     "android": {
       "adaptiveIcon": {
